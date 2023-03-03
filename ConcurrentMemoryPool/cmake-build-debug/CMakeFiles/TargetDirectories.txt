@@ -1,0 +1,3 @@
+D:/05code/2023/JobSearchProject/memory pool/ConcurrentMemoryPool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/05code/2023/JobSearchProject/memory pool/ConcurrentMemoryPool/cmake-build-debug/CMakeFiles/ConcurrentMemoryPool.dir
+D:/05code/2023/JobSearchProject/memory pool/ConcurrentMemoryPool/cmake-build-debug/CMakeFiles/edit_cache.dir
